@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Wuemeli
+- 🔭 I’m currently working on Wuemeli
 - 🌱 I’m currently learning Math
 - 📫 How to reach me:
 Discord: Wuemeli#4666
