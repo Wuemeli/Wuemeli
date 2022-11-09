@@ -7,3 +7,4 @@ Email: luis@wuemeli.com
 - 😄 Pronouns: Pay/Pal 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuemeli&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuemeli)](https://github.com/anuraghazra/github-readme-stats)
