@@ -13,4 +13,4 @@ Email: luis@wuemeli.com
 
 
 
-![Discord Status](https://dcbadge.vercel.app/api/shield/704918773035171931
+![](https://dcbadge.vercel.app/api/shield/704918773035171931) 
