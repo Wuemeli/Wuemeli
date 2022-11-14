@@ -8,7 +8,7 @@ Programmer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wuemeli"/> </p>  
 
 # 💫 About Me:
-💻 Programmer <br>🎮 Gamer<br>🕵️‍♂️ Command Line Lover<br>🐧 Arch Linux & Debian User<br>
+💻 Programmer <br>🎮 Gamer<br>🕵️‍♂️ Command Line Lover<br>🐧 Ubuntu & Debian User<br>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
