@@ -20,6 +20,7 @@ Programmer
 ![](https://github-readme-stats.vercel.app/api?username=Wuemeli&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wuemeli&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wuemeli&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Wuemeli Snake gif](https://github.com/Wuemeli/Wuemeli/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🏆 GitHub Trophies
