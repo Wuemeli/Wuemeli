@@ -6,7 +6,7 @@ Programmer
 ----------------------------
 ![Discord](https://camo.githubusercontent.com/9317fb7da140603e6e6fb28135b4b2cc00898f3d29b37cb87bd636a8947afb06/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f373034393138373733303335313731393331)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wuemeli"/> </p> 
-![Discord](https://img.shields.io/github/sponsors/Wuemeli) 
+![GitHub Sponsor](https://img.shields.io/github/sponsors/Wuemeli?label=Sponsor&logo=GitHub)
 
 # 💫 About Me:
 💻 Programmer <br>🎮 Gamer<br>🕵️‍♂️ SSH Lover<br>🐧 Ubuntu & Debian User<br>
