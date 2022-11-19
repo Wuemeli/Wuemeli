@@ -20,11 +20,13 @@ Programmer
 ![JavaScript](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Node.Js](https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-%23777bb4.svg?logo=php&logoColor=white&style=for-the-badge)
+![Discord](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wuemeli&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wuemeli&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wuemeli&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![Wuemeli Snake gif](https://github.com/Wuemeli/Wuemeli/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## 🏆 GitHub Trophies
