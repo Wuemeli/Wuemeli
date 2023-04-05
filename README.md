@@ -33,5 +33,3 @@ Programmer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wuemeli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💿 Spotify Status
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d1ytrh3gx9xa7mzw79h2mbeqi&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
