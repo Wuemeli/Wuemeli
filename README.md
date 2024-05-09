@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alig src="[https://github-profile-trophy.vercel.app/?username=Wuemeli&theme=onedark&column=-1](https://discord.c99.nl/widget/theme-4/704918773035171931.png)" />
+  <img alig src="https://discord.c99.nl/widget/theme-4/704918773035171931.png" />
 </p>
 
 
