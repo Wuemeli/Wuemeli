@@ -16,10 +16,10 @@ I don't want to waste my time writing a GitHub bio, so here are some cool stats:
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wuemeli&theme=github-dark-dimmed&custom_title=Wuemeli%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer Capsule" />
-</p>
-
 (Very cool, I know.)
 
 Visit my [Personal Website](https://wuemeli.com/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer Capsule" />
+</p>
